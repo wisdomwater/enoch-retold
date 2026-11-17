@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 1,
+  "content": [
+    {
+      "id": "copyright-print",
+      "path": "copyright.md",
+      "type": "copyright",
+      "title": "Copyright (print)",
+      "includeIn": [
+        "pdf",
+        "paperback"
+      ],
+      "searchable": false,
+      "dailyEligible": false
+    },
+    {
+      "id": "copyright-digital",
+      "path": "copyright-epub.md",
+      "type": "copyright",
+      "title": "Copyright (digital)",
+      "includeIn": [
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false
+    },
+    {
+      "id": "preface",
+      "path": "preface.md",
+      "type": "preface",
+      "title": "Preface",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "reading-001",
+      "path": "chapters/001.md",
+      "type": "retelling",
+      "title": "1 - When the Mountains Melt",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-002",
+      "path": "chapters/002.md",
+      "type": "retelling",
+      "title": "2 - The Order of Heaven",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-003",
+      "path": "chapters/003.md",
+      "type": "retelling",
+      "title": "3 - When the Earth Cried Out",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-004",
+      "path": "chapters/004.md",
+      "type": "retelling",
+      "title": "4 - When the Earth Is Healed",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-005",
+      "path": "chapters/005.md",
+      "type": "retelling",
+      "title": "5 - The Scribe Between Heaven and Earth",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-006",
+      "path": "chapters/006.md",
+      "type": "retelling",
+      "title": "6 - Before the Throne of Fire",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-007",
+      "path": "chapters/007.md",
+      "type": "retelling",
+      "title": "7 - You Were Made for Heaven",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-008",
+      "path": "chapters/008.md",
+      "type": "retelling",
+      "title": "8 - At the Foundations of the World",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-009",
+      "path": "chapters/009.md",
+      "type": "retelling",
+      "title": "9 - The Stars That Left Their Courses",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-010",
+      "path": "chapters/010.md",
+      "type": "retelling",
+      "title": "10 - Where the Dead Await",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-011",
+      "path": "chapters/011.md",
+      "type": "retelling",
+      "title": "11 - The Tree of Unfading Fragrance",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-012",
+      "path": "chapters/012.md",
+      "type": "retelling",
+      "title": "12 - Where Heaven Opens",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-013",
+      "path": "chapters/013.md",
+      "type": "retelling",
+      "title": "13 - Where Righteousness Flows Like Water",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-014",
+      "path": "chapters/014.md",
+      "type": "retelling",
+      "title": "14 - Beneath the Wings of the Lord",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-015",
+      "path": "chapters/015.md",
+      "type": "retelling",
+      "title": "15 - When Wisdom Found No Home",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-016",
+      "path": "chapters/016.md",
+      "type": "retelling",
+      "title": "16 - The One Whose Face Was Full of Grace",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-017",
+      "path": "chapters/017.md",
+      "type": "retelling",
+      "title": "17 - The Fountain That Never Fails",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-018",
+      "path": "chapters/018.md",
+      "type": "retelling",
+      "title": "18 - When the Mountains Melted",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-019",
+      "path": "chapters/019.md",
+      "type": "retelling",
+      "title": "19 - The Sign Above the Waters",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-020",
+      "path": "chapters/020.md",
+      "type": "retelling",
+      "title": "20 - When Heaven Trembled",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-021",
+      "path": "chapters/021.md",
+      "type": "retelling",
+      "title": "21 - The Measure of the Deep",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-022",
+      "path": "chapters/022.md",
+      "type": "retelling",
+      "title": "22 - The Cords of the Righteous",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-023",
+      "path": "chapters/023.md",
+      "type": "retelling",
+      "title": "23 - When the Sceptres Fall",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-024",
+      "path": "chapters/024.md",
+      "type": "retelling",
+      "title": "24 - The Waters Beneath the Earth",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-025",
+      "path": "chapters/025.md",
+      "type": "retelling",
+      "title": "25 - When Michael Wept",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-026",
+      "path": "chapters/026.md",
+      "type": "retelling",
+      "title": "26 - The Oath Beneath All Things",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-027",
+      "path": "chapters/027.md",
+      "type": "retelling",
+      "title": "27 - Between the Rivers of Fire",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-028",
+      "path": "chapters/028.md",
+      "type": "retelling",
+      "title": "28 - The Gates of the Sun",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-029",
+      "path": "chapters/029.md",
+      "type": "retelling",
+      "title": "29 - The Light Given by Measure",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-030",
+      "path": "chapters/030.md",
+      "type": "retelling",
+      "title": "30 - The Harmony of the Heavens",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-031",
+      "path": "chapters/031.md",
+      "type": "retelling",
+      "title": "31 - The Gates of the Winds",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-032",
+      "path": "chapters/032.md",
+      "type": "retelling",
+      "title": "32 - When the Moon Goes Dark",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-033",
+      "path": "chapters/033.md",
+      "type": "retelling",
+      "title": "33 - The Book That Fell from Heaven",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-034",
+      "path": "chapters/034.md",
+      "type": "retelling",
+      "title": "34 - When the Earth Fell Away",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-035",
+      "path": "chapters/035.md",
+      "type": "retelling",
+      "title": "35 - When the Earth Cried Out",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-036",
+      "path": "chapters/036.md",
+      "type": "retelling",
+      "title": "36 - The Ship Above the Waters",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-037",
+      "path": "chapters/037.md",
+      "type": "retelling",
+      "title": "37 - Through the Waters and the Wilderness",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-038",
+      "path": "chapters/038.md",
+      "type": "retelling",
+      "title": "38 - The Shepherds Who Forgot the Flock",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-039",
+      "path": "chapters/039.md",
+      "type": "retelling",
+      "title": "39 - The Book of the Forgotten",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-040",
+      "path": "chapters/040.md",
+      "type": "retelling",
+      "title": "40 - The Horn That Would Not Break",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-041",
+      "path": "chapters/041.md",
+      "type": "retelling",
+      "title": "41 - The House Made New",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-042",
+      "path": "chapters/042.md",
+      "type": "retelling",
+      "title": "42 - When Righteousness Awakens",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-043",
+      "path": "chapters/043.md",
+      "type": "retelling",
+      "title": "43 - The Weeks of the World",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-044",
+      "path": "chapters/044.md",
+      "type": "retelling",
+      "title": "44 - The Voice of Tranquillity",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-045",
+      "path": "chapters/045.md",
+      "type": "retelling",
+      "title": "45 - What Heaven Remembers",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-046",
+      "path": "chapters/046.md",
+      "type": "retelling",
+      "title": "46 - When Falsehood Becomes Sacred",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-047",
+      "path": "chapters/047.md",
+      "type": "retelling",
+      "title": "47 - The Sea Beneath His Hand",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-048",
+      "path": "chapters/048.md",
+      "type": "retelling",
+      "title": "48 - Written in Heaven",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-049",
+      "path": "chapters/049.md",
+      "type": "retelling",
+      "title": "49 - The Child of Light",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "reading-050",
+      "path": "chapters/050.md",
+      "type": "retelling",
+      "title": "50 - The Child Called Noah",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true
+    },
+    {
+      "id": "epilogue",
+      "path": "epilogue.md",
+      "type": "epilogue",
+      "title": "Epilogue",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    }
+  ],
+  "excluded": [
+    {
+      "path": "README.md",
+      "reason": "Repository description; not included by the existing compiler."
+    },
+    {
+      "path": "back-cover.md",
+      "reason": "Back-cover marketing copy; not a manuscript input."
+    },
+    {
+      "path": "blank.md",
+      "reason": "Empty leading placeholder in the existing compiler; emits no text."
+    }
+  ]
+}

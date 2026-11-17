@@ -1,0 +1,817 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "preface": {
+      "contentId": "preface",
+      "summary": "Michael Collins recalls his fascination with the biblical Enoch and explains this first-person literary retelling of 1 Enoch. Its contemplative thread asks how to resist a darkened world without adopting its hatred.",
+      "keywords": [
+        "walking with God",
+        "literary retelling",
+        "1 Enoch",
+        "light and darkness"
+      ],
+      "themes": [
+        "divine-presence",
+        "hope",
+        "compassion"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-001": {
+      "contentId": "reading-001",
+      "summary": "Mountains melt before the Holy One as judgment gives way to a promise of peace. Enoch invites steadfast mercy and truth amid powers that seem immovable.",
+      "keywords": [
+        "mountains",
+        "Holy One",
+        "light and darkness"
+      ],
+      "themes": [
+        "hope",
+        "mercy",
+        "perseverance"
+      ],
+      "readingMinutes": 4
+    },
+    "reading-002": {
+      "contentId": "reading-002",
+      "summary": "The ordered paths of stars, rivers, and seasons contrast with the Watchers' decision to descend. The reading explores the difference between receiving beauty and seeking to possess it.",
+      "keywords": [
+        "heavenly order",
+        "Watchers",
+        "Samyaza",
+        "possessiveness"
+      ],
+      "themes": [
+        "surrender",
+        "humility",
+        "attention"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-003": {
+      "contentId": "reading-003",
+      "summary": "The Watchers' teachings and the giants' appetite fill creation with violence. The earth's cry reaches heaven, affirming that suffering hidden from human witnesses is still seen.",
+      "keywords": [
+        "Watchers",
+        "giants",
+        "Azazyel",
+        "earth's lament"
+      ],
+      "themes": [
+        "suffering",
+        "compassion",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-004": {
+      "contentId": "reading-004",
+      "summary": "Commands against the Watchers and giants accompany the preservation of life before the flood. Enoch sees judgment directed toward healing a wounded earth and ending oppression.",
+      "keywords": [
+        "Raphael",
+        "Dudael",
+        "flood",
+        "restoration of earth"
+      ],
+      "themes": [
+        "mercy",
+        "hope",
+        "freedom"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-005": {
+      "contentId": "reading-005",
+      "summary": "The fallen Watchers ask Enoch to write their petition, placing a human scribe between heaven and earth. He carries their grief while learning that compassion need not deny the truth of harm.",
+      "keywords": [
+        "scribe",
+        "Watchers' petition",
+        "intercession"
+      ],
+      "themes": [
+        "prayer",
+        "compassion",
+        "mercy"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-006": {
+      "contentId": "reading-006",
+      "summary": "Enoch reports the refusal of the Watchers' petition and recounts his approach through crystal and fire to the divine throne. Overwhelmed rather than exalted, he discovers the humility of hearing his name spoken.",
+      "keywords": [
+        "throne of fire",
+        "crystal chambers",
+        "divine calling"
+      ],
+      "themes": [
+        "divine-presence",
+        "humility",
+        "uncertainty"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-007": {
+      "contentId": "reading-007",
+      "summary": "Before the throne, Enoch hears why the Watchers' transgression violated the order of their calling. Gratitude and receiving limits become alternatives to grasping for another creature's place.",
+      "keywords": [
+        "Watchers",
+        "heavenly calling",
+        "boundaries",
+        "desire"
+      ],
+      "themes": [
+        "gratitude",
+        "surrender",
+        "rest"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-008": {
+      "contentId": "reading-008",
+      "summary": "The Watchers' misuse of hidden knowledge leads into a journey among the foundations of creation and the winds. Enoch learns to receive mystery with wonder rather than turn every secret into power.",
+      "keywords": [
+        "hidden knowledge",
+        "foundations of creation",
+        "winds"
+      ],
+      "themes": [
+        "attention",
+        "humility",
+        "uncertainty"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-009": {
+      "contentId": "reading-009",
+      "summary": "Wandering stars appear as bound fires in a desolate prison beyond familiar creation. Their abandoned courses prompt a reflection on remaining faithful without following every dazzling light.",
+      "keywords": [
+        "wandering stars",
+        "Uriel",
+        "prison of angels"
+      ],
+      "themes": [
+        "perseverance",
+        "trust",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-010": {
+      "contentId": "reading-010",
+      "summary": "Leaving the fiery prison, Enoch visits chambers where the dead await judgment and hears the cry of the wronged. The vision holds grief beside the assurance that silenced lives are remembered.",
+      "keywords": [
+        "chambers of the dead",
+        "Abel",
+        "heavenly remembrance"
+      ],
+      "themes": [
+        "suffering",
+        "hope",
+        "compassion"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-011": {
+      "contentId": "reading-011",
+      "summary": "Among seven mountains, Enoch encounters a fragrant tree reserved for the righteous and humble. A troubling valley and the sound of water place judgment beside the promise of life beyond terror.",
+      "keywords": [
+        "tree of life",
+        "seven mountains",
+        "unfading fragrance"
+      ],
+      "themes": [
+        "hope",
+        "humility",
+        "mercy"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-012": {
+      "contentId": "reading-012",
+      "summary": "A journey through fragrant trees reaches the tree of knowledge and the gates through which the stars pass. Enoch contrasts the impulse to master mysteries with the wonder of receiving creation.",
+      "keywords": [
+        "tree of knowledge",
+        "Raphael",
+        "heavenly gates"
+      ],
+      "themes": [
+        "attention",
+        "humility",
+        "surrender"
+      ],
+      "readingMinutes": 7
+    },
+    "reading-013": {
+      "contentId": "reading-013",
+      "summary": "The ordered stars lead into visions of judgment, righteousness, and prayer for a wounded earth. Mercy appears as gentle nourishment, while justice requires that oppression be stopped.",
+      "keywords": [
+        "Lord of Spirits",
+        "righteousness",
+        "dew",
+        "oppression"
+      ],
+      "themes": [
+        "mercy",
+        "prayer",
+        "compassion"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-014": {
+      "contentId": "reading-014",
+      "summary": "Enoch beholds the holy ones beneath the Lord's wings and listens to four angelic voices. Around overwhelming glory he finds healing, intercession, repentance, and hope for those who turn again toward light.",
+      "keywords": [
+        "Lord of Spirits",
+        "four presences",
+        "repentance",
+        "healing"
+      ],
+      "themes": [
+        "divine-presence",
+        "prayer",
+        "mercy"
+      ],
+      "readingMinutes": 7
+    },
+    "reading-015": {
+      "contentId": "reading-015",
+      "summary": "Wisdom seeks a home among humanity but returns to heaven when none receives her. The faithful courses of stars invite the reader to make room for light amid a world that welcomes other powers.",
+      "keywords": [
+        "Wisdom",
+        "heavenly dwelling",
+        "faithful stars"
+      ],
+      "themes": [
+        "attention",
+        "perseverance",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-016": {
+      "contentId": "reading-016",
+      "summary": "In the second parable, Enoch asks about the gracious figure beside the Ancient of Days and learns of the Son of Man. The vision challenges the temptation to pursue justice by adopting cruelty.",
+      "keywords": [
+        "Son of Man",
+        "Ancient of Days",
+        "second parable"
+      ],
+      "themes": [
+        "grace",
+        "compassion",
+        "hope"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-017": {
+      "contentId": "reading-017",
+      "summary": "The prayers of the afflicted rise before the Lord of Spirits, and Enoch encounters a fountain of righteousness and the Elect One. Judgment exposes destructive power while mercy calls the heart toward repentance.",
+      "keywords": [
+        "fountain of righteousness",
+        "Elect One",
+        "repentance"
+      ],
+      "themes": [
+        "prayer",
+        "mercy",
+        "hope"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-018": {
+      "contentId": "reading-018",
+      "summary": "The earth rejoices as mountains of treasured metals prove powerless before the Elect One. Enoch reflects on freedom from domination without learning to delight in an oppressor's suffering.",
+      "keywords": [
+        "mountains of metal",
+        "Elect One",
+        "false security"
+      ],
+      "themes": [
+        "freedom",
+        "compassion",
+        "hope"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-019": {
+      "contentId": "reading-019",
+      "summary": "Chains prepared for judgment give way to the flood and the sign of a divine promise. Enoch sees violence consume its own alliances and covenant place a boundary beyond destruction.",
+      "keywords": [
+        "flood",
+        "covenant",
+        "heavenly sign",
+        "fetters"
+      ],
+      "themes": [
+        "trust",
+        "mercy",
+        "community"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-020": {
+      "contentId": "reading-020",
+      "summary": "Chariots, thunder, and a shaking heaven overwhelm Enoch's strength. In the midst of the vision he hears of mercy and learns the humility of accepting a hand that raises him.",
+      "keywords": [
+        "heavenly chariots",
+        "thunder",
+        "day of mercy"
+      ],
+      "themes": [
+        "humility",
+        "mercy",
+        "trust"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-021": {
+      "contentId": "reading-021",
+      "summary": "Leviathan, Behemoth, and the storehouses of rain and mist reveal forces held within divine measure. The severity of judgment leaves Enoch trembling, while angels depart with cords to measure what he cannot yet see.",
+      "keywords": [
+        "Leviathan",
+        "Behemoth",
+        "storehouses of rain",
+        "measuring cords"
+      ],
+      "themes": [
+        "uncertainty",
+        "humility",
+        "trust"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-022": {
+      "contentId": "reading-022",
+      "summary": "Angelic cords measure the righteous rather than earthly possessions, and the Elect One weighs hidden deeds. Enoch sees rulers confronted with the suffering they caused and considers what heaven counts as greatness.",
+      "keywords": [
+        "measures of the righteous",
+        "Elect One",
+        "Son of Man",
+        "hidden deeds"
+      ],
+      "themes": [
+        "humility",
+        "compassion",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-023": {
+      "contentId": "reading-023",
+      "summary": "Earthly kings face judgment as their wealth and authority fail them. Enoch then encounters Noah amid a trembling earth and offers reassurance that upheaval is not the same as abandonment.",
+      "keywords": [
+        "kings",
+        "fallen angels",
+        "Noah",
+        "trembling earth"
+      ],
+      "themes": [
+        "hope",
+        "trust",
+        "humility"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-024": {
+      "contentId": "reading-024",
+      "summary": "Noah sees hidden waters restrained until their appointed release and a future preserved beyond the flood. The burning valley exposes corrupted power, yet Enoch refuses to make destruction an object of delight.",
+      "keywords": [
+        "Noah",
+        "hidden waters",
+        "burning valley",
+        "preserved seed"
+      ],
+      "themes": [
+        "hope",
+        "mercy",
+        "compassion"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-025": {
+      "contentId": "reading-025",
+      "summary": "Michael's tears accompany revelations about the rebellious angels and teachings turned toward domination. Enoch considers how knowledge can increase without wisdom and why even necessary judgment remains grievous.",
+      "keywords": [
+        "Michael",
+        "fallen angels",
+        "forbidden teachings",
+        "weapons"
+      ],
+      "themes": [
+        "compassion",
+        "suffering",
+        "humility"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-026": {
+      "contentId": "reading-026",
+      "summary": "The angel recounts corrupted teachings before revealing the oath that sustains sea, earth, and stars. Beneath a world wounded by misuse of power, Enoch discovers a faithfulness greater than his own.",
+      "keywords": [
+        "Penemue",
+        "divine oath",
+        "boundaries of the sea"
+      ],
+      "themes": [
+        "trust",
+        "perseverance",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-027": {
+      "contentId": "reading-027",
+      "summary": "Enoch is carried into a habitation of ice and living fire among the sleepless guardians of glory. Before the Ancient of Days, overwhelming holiness culminates in a promise of peace.",
+      "keywords": [
+        "Ancient of Days",
+        "Seraphim",
+        "Cherubim",
+        "Ophanin",
+        "rivers of fire"
+      ],
+      "themes": [
+        "divine-presence",
+        "humility",
+        "rest"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-028": {
+      "contentId": "reading-028",
+      "summary": "Uriel shows the sun's gates and the changing portions of day and night. Its faithful yielding through seasons becomes an image of continuing through darkness without grasping at constant increase.",
+      "keywords": [
+        "Uriel",
+        "gates of the sun",
+        "seasons",
+        "day and night"
+      ],
+      "themes": [
+        "perseverance",
+        "surrender",
+        "trust"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-029": {
+      "contentId": "reading-029",
+      "summary": "The returning sun and the moon's measured brightness reveal holiness in faithful repetition and receptive light. Enoch reminds the reader that a hidden or diminished radiance does not diminish the whole person.",
+      "keywords": [
+        "moon",
+        "borrowed light",
+        "solar circuit",
+        "receiving"
+      ],
+      "themes": [
+        "grace",
+        "perseverance",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-030": {
+      "contentId": "reading-030",
+      "summary": "The moon's portions and the appointed days of the year reveal the harmony of heavenly movements. Enoch finds freedom in belonging to an order greater than himself without confusing smallness with worthlessness.",
+      "keywords": [
+        "lunar phases",
+        "heavenly calendar",
+        "appointed days"
+      ],
+      "themes": [
+        "humility",
+        "freedom",
+        "trust"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-031": {
+      "contentId": "reading-031",
+      "summary": "Twelve gates release the winds across mountains, rivers, and seas. Enoch considers the limits of human possession and the possibility of standing faithfully through changing conditions.",
+      "keywords": [
+        "twelve gates",
+        "winds",
+        "mountains",
+        "rivers"
+      ],
+      "themes": [
+        "uncertainty",
+        "trust",
+        "perseverance"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-032": {
+      "contentId": "reading-032",
+      "summary": "The moon's receiving, fullness, and surrender lead to warnings about humanity forgetting its place. Enoch encourages release in darkened seasons and remembrance of the source of every gift of light.",
+      "keywords": [
+        "dark moon",
+        "lunar rhythms",
+        "receiving and release"
+      ],
+      "themes": [
+        "surrender",
+        "gratitude",
+        "trust"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-033": {
+      "contentId": "reading-033",
+      "summary": "A book descends from heaven, and Enoch returns home to pass what he has learned to Mathusala. The vision turns from cosmic mysteries toward the ordinary responsibility of transmitting living wisdom.",
+      "keywords": [
+        "heavenly book",
+        "Mathusala",
+        "handing on wisdom"
+      ],
+      "themes": [
+        "ordinary-life",
+        "community",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-034": {
+      "contentId": "reading-034",
+      "summary": "Enoch recalls a dream in which the earth collapses and his grandfather Malalel teaches him to pray. Seeing destruction becomes a summons to intercede for life rather than surrender to fear.",
+      "keywords": [
+        "Malalel",
+        "collapsing earth",
+        "intercession",
+        "dream"
+      ],
+      "themes": [
+        "prayer",
+        "suffering",
+        "hope"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-035": {
+      "contentId": "reading-035",
+      "summary": "Enoch's prayer for a surviving seed opens into an animal vision of human generations and renewed violence. The cry of the earth is met by heavenly figures whose coming promises that its suffering is heard.",
+      "keywords": [
+        "animal vision",
+        "white bulls",
+        "earth's cry",
+        "preserved seed"
+      ],
+      "themes": [
+        "prayer",
+        "compassion",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-036": {
+      "contentId": "reading-036",
+      "summary": "From a high place, Enoch watches the flood and a vessel carrying life through it. The animal vision continues into new generations, inviting survival without adopting the violence of surrounding beasts.",
+      "keywords": [
+        "flood",
+        "ship",
+        "animal vision",
+        "twelve sheep"
+      ],
+      "themes": [
+        "trust",
+        "hope",
+        "perseverance"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-037": {
+      "contentId": "reading-037",
+      "summary": "The sheep suffer under wolves, pass through the waters, and journey toward a new dwelling. Their alternating sight and blindness frame freedom as learning to live differently from former oppressors.",
+      "keywords": [
+        "sheep and wolves",
+        "deliverance",
+        "wilderness",
+        "spiritual blindness"
+      ],
+      "themes": [
+        "freedom",
+        "compassion",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-038": {
+      "contentId": "reading-038",
+      "summary": "The flock's rulers change while violence and neglect deepen its suffering. A heavenly recorder counts every lost sheep, exposing authority as entrusted care rather than ownership.",
+      "keywords": [
+        "Lord of the sheep",
+        "seventy shepherds",
+        "heavenly recorder"
+      ],
+      "themes": [
+        "community",
+        "compassion",
+        "suffering"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-039": {
+      "contentId": "reading-039",
+      "summary": "After the house falls, scattered sheep rebuild while blindness and predation continue. Enoch struggles with divine silence yet sees a sealed record preserving every life treated as expendable.",
+      "keywords": [
+        "scattered sheep",
+        "sealed book",
+        "divine silence",
+        "remembrance"
+      ],
+      "themes": [
+        "suffering",
+        "trust",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-040": {
+      "contentId": "reading-040",
+      "summary": "Birds of prey attack the flock, but a horn rises that their assaults cannot break. As the heavenly account is opened, Enoch understands courage as remaining awake and crying for help when strength runs out.",
+      "keywords": [
+        "unbroken horn",
+        "ravens",
+        "flock",
+        "heavenly books"
+      ],
+      "themes": [
+        "perseverance",
+        "prayer",
+        "hope"
+      ],
+      "readingMinutes": 6
+    },
+    "reading-041": {
+      "contentId": "reading-041",
+      "summary": "The shepherds face judgment, the old house is dismantled, and a greater dwelling welcomes the restored. Opened eyes and a laid-down sword reveal a future beyond possession and violence.",
+      "keywords": [
+        "new house",
+        "seventy shepherds",
+        "opened eyes",
+        "restoration"
+      ],
+      "themes": [
+        "hope",
+        "community",
+        "freedom"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-042": {
+      "contentId": "reading-042",
+      "summary": "Addressing his children, Enoch describes oppression ripening before righteousness awakens. Two paths call for a choice between domination and the patient practice of truth, mercy, and integrity.",
+      "keywords": [
+        "two paths",
+        "righteousness",
+        "oppression",
+        "children of Enoch"
+      ],
+      "themes": [
+        "mercy",
+        "perseverance",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-043": {
+      "contentId": "reading-043",
+      "summary": "Enoch recounts the world's generations as successive weeks moving toward judgment and renewed heavens. The sweeping vision returns to the present choice of a path that does not require diminishing others.",
+      "keywords": [
+        "apocalypse of weeks",
+        "renewed heaven",
+        "integrity"
+      ],
+      "themes": [
+        "hope",
+        "humility",
+        "perseverance"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-044": {
+      "contentId": "reading-044",
+      "summary": "Warnings against fraudulent wealth and oppressive foundations accompany a call to walk in peace. Beyond the noise of power, Enoch hears tranquillity and urges hope without taking judgment into one's own hands.",
+      "keywords": [
+        "tranquillity",
+        "fraud",
+        "wealth",
+        "paths of peace"
+      ],
+      "themes": [
+        "rest",
+        "hope",
+        "trust"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-045": {
+      "contentId": "reading-045",
+      "summary": "The prayers of the righteous rise while hidden deeds are recorded before the Most High. Enoch urges unnoticed mercy and truth rather than pleasure in another person's downfall.",
+      "keywords": [
+        "heavenly records",
+        "hidden deeds",
+        "prayers of the righteous"
+      ],
+      "themes": [
+        "prayer",
+        "mercy",
+        "ordinary-life"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-046": {
+      "contentId": "reading-046",
+      "summary": "Enoch sees an age in which falsehood receives sacred authority and innocent people are crushed. Prayers and angelic remembrance sustain a call to keep truth and compassion alive when cruelty becomes ordinary.",
+      "keywords": [
+        "sacred falsehood",
+        "distorted wisdom",
+        "oppression",
+        "truthfulness"
+      ],
+      "themes": [
+        "compassion",
+        "perseverance",
+        "prayer"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-047": {
+      "contentId": "reading-047",
+      "summary": "Judgment exposes the limits of wealth as the sea, rain, and heavenly lights remain under divine authority. Enoch invites patient hope and the humility of remembering that creation carries rather than belongs to us.",
+      "keywords": [
+        "sea",
+        "divine boundaries",
+        "wealth",
+        "patient hope"
+      ],
+      "themes": [
+        "humility",
+        "trust",
+        "hope"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-048": {
+      "contentId": "reading-048",
+      "summary": "The suffering and deaths of the righteous provoke mockery from those who judge only outward outcomes. A heavenly record offers hope beyond earthly recognition and a reason not to pass suffering onward.",
+      "keywords": [
+        "heavenly tablets",
+        "death of the righteous",
+        "unrewarded goodness"
+      ],
+      "themes": [
+        "suffering",
+        "hope",
+        "compassion"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-049": {
+      "contentId": "reading-049",
+      "summary": "Enoch assures the righteous that their hidden goodness is remembered and their witness can endure through generations. The birth of a luminous child opens a new possibility beyond visions of violence.",
+      "keywords": [
+        "hidden goodness",
+        "heavenly remembrance",
+        "child of light"
+      ],
+      "themes": [
+        "hope",
+        "perseverance",
+        "community"
+      ],
+      "readingMinutes": 5
+    },
+    "reading-050": {
+      "contentId": "reading-050",
+      "summary": "Lamech fears the extraordinary child born in his house, and Mathusala seeks Enoch's counsel. Noah's birth points toward life preserved through the coming flood and a future violence cannot finally possess.",
+      "keywords": [
+        "Noah",
+        "Lamech",
+        "Mathusala",
+        "flood",
+        "preserved life"
+      ],
+      "themes": [
+        "hope",
+        "trust",
+        "community"
+      ],
+      "readingMinutes": 5
+    },
+    "epilogue": {
+      "contentId": "epilogue",
+      "summary": "Returning from Enoch's visions to ordinary life, the epilogue calls for goodness without a demand for reward. Resisting injustice remains essential, but truth, mercy, and care for vulnerable people must not give way to hatred.",
+      "keywords": [
+        "ordinary goodness",
+        "resisting hatred",
+        "walking with God",
+        "care for the vulnerable"
+      ],
+      "themes": [
+        "ordinary-life",
+        "compassion",
+        "mercy"
+      ],
+      "readingMinutes": 5
+    }
+  }
+}

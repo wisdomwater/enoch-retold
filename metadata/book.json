@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "enoch-retold",
+  "title": "Enoch Retold",
+  "subtitle": "The Ancient Vision of Heaven, the Watchers, and the Fate of Mankind",
+  "author": "Michael Collins",
+  "sourceAuthors": [
+    "Ancient Jewish writers"
+  ],
+  "sourceWorks": [
+    {
+      "title": "The Book of Enoch (1 Enoch)",
+      "authors": [
+        "Ancient Jewish writers"
+      ],
+      "edition": "R. H. Charles, translator; introduction by W. O. E. Oesterley; S.P.C.K., first published 1917, tenth impression 1962; BibleSundays.com PDF",
+      "provenance": "The maintainer identified https://wjaaqrftiedybzofvqcn.supabase.co/storage/v1/object/public/downloads/book-of-enoch.pdf as the source PDF (the trailing period in the supplied link was removed to retrieve it). The downloaded 73-page PDF credits R. H. Charles as translator from Ethiopic and W. O. E. Oesterley for the introduction. Its added opening page identifies BibleSundays.com and Project Gutenberg eBook #77935, describing the text as public domain; the reproduced title matter states first published 1917 and tenth impression 1962, and credits the translation from the second edition of Charles's The Book of Enoch (1912). These are the PDF's own source statements, not independent verification of its Gutenberg identifier or a claim that every manuscript passage follows this edition. The ancient work is presented in Enoch's voice, without attributing historical authorship to the biblical Enoch. Charles is the translator, not the ancient author; Michael Collins is the author of this modern contemplative literary retelling, not a new translation. Source-text statements do not determine publication eligibility for the adaptation."
+    }
+  ],
+  "summary": "Fifty contemplative readings retell 1 Enoch in the first-person voice of its ancient seer. Journeys among Watchers, heavenly fire, stars, judgment, and restoration explore how to resist darkness without surrendering compassion, integrity, and hope.",
+  "description": "Enoch Retold enters the strange world of 1 Enoch through fifty first-person literary readings, framed by a personal preface and an epilogue returning the reader to ordinary life. Rebellious Watchers, the cries of a wounded earth, the Son of Man, the courses of heavenly lights, animal visions, and the birth of Noah unfold as a continuous contemplative journey. The retelling keeps troubling judgments and unresolved mysteries in view while asking how a person can oppose injustice without becoming cruel. It is a contemporary literary adaptation of ancient Jewish apocalyptic writings, shaped by Michael Collins's contemplative perspective, rather than a new translation or scholarly commentary.",
+  "keywords": [
+    "1 Enoch",
+    "Book of Enoch",
+    "Watchers",
+    "Jewish apocalyptic literature",
+    "contemplative retelling",
+    "heavenly visions",
+    "light and darkness"
+  ],
+  "themes": [
+    "hope",
+    "mercy",
+    "compassion",
+    "humility",
+    "perseverance",
+    "trust",
+    "divine-presence"
+  ],
+  "traditions": [
+    "Jewish apocalyptic literature",
+    "Christian contemplation"
+  ],
+  "language": "en",
+  "cover": {
+    "front": "artwork/cover.png"
+  },
+  "publication": {
+    "status": "unverified",
+    "edition": null,
+    "publishedAt": null,
+    "freeWebEligibleAt": null,
+    "rightsStatus": "unresolved",
+    "metadataReview": "pending"
+  },
+  "links": {
+    "github": "https://github.com/wisdomwater/enoch-retold"
+  },
+  "formats": [
+    "pdf",
+    "paperback",
+    "epub",
+    "docx",
+    "md"
+  ]
+}
